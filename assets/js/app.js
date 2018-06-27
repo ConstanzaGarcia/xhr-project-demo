@@ -35,3 +35,4 @@ function addNews(){
 
     responseContaier.appendChild(li);
 }
+

@@ -1,0 +1,10 @@
+header {
+    background-color: yellow;
+    text-align: center;
+}
+
+#submit-btn {
+    background-color: blue;
+    color: white;
+    border-color: blue;
+}
